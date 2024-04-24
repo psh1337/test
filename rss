@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Vulnerability Management - Rapid7 Cybersecurity Blog]]></title><description><![CDATA[Rapid7 transforms data into insight, empowering security professionals to progress and protect their organizations.]]></description><link>https://blog.rapid7.com/</link><image><url>https://blog.rapid7.com/favicon.png</url><title>Vulnerability Management - Rapid7 Cybersecurity Blog</title><link>https://blog.rapid7.com/</link></image><generator>Ghost 3.1</generator><lastBuildDate>Wed, 24 Apr 2024 09:40:50 GMT</lastBuildDate><atom:link href="https://blog.rapid7.com/tag/vulnerability-management/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Vulnerability Management - Rapid7 Cybersecurity Blog]]></title><description><![CDATA[Rapid7 transforms data into insight, empowering security professionals to progress and protect their organizations.]]></description><link>https://blog.rapid7.com/</link><image><url>https://blog.rapid7.com/favicon.png</url><title>Vulnerability Management - Rapid7 Cybersecurity Blog</title><link>https://blog.rapid7.com/</link></image><generator>Ghost 3.1</generator><lastBuildDate>Wed, 24 Apr 2024 09:41:50 GMT</lastBuildDate><atom:link href="https://blog.rapid7.com/tag/vulnerability-management/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl>
 <item>
 	<title>
 		<![CDATA[Unauthenticated yeeeeehhhhhhhhhhhhhhhhhhhhs Zero-Day Enables Complete Server Compromise]]>
@@ -8,16 +8,14 @@
 	</description>
 	<link>https://blog.rapid7.com/2024/04/23/etr-unauthenticated-crushftp-zero-day-enables-complete-server-compromise/</link>
 	<guid isPermaLink="false">6627d22ae096916be541a9b8</guid>
-	<category>
-		<![CDATA[Emergent Threat Response]]>
-	</category>
+	<category><![CDATA[Emergent Threat Response]]></category>
 	<category>
 		<![CDATA[Vulnerability Management]]>
 	</category>
 	<dc:creator>
 		<![CDATA[Caitlin Condon]]>
 	</dc:creator>
-	<pubDate>Tue, 24 Apr 2024 09:40:08 GMT</pubDate>
+	<pubDate>Tue, 24 Apr 2024 09:41:08 GMT</pubDate>
 	<media:content url="https://blog.rapid7.com/content/images/2024/04/emergent-threat-banner-1-1.jpeg" medium="image"/>
 	<content:encoded>
 		<![CDATA[ssssssssssssssssssssssss]]>
