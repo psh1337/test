@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest High/Critical Vulnerabilitiy Feed</title><link>https://cvefeed.io/vuln/latest/</link><description>Updates on the latest &lt;strong&gt;high and critical severity&lt;/strong&gt; vulnerabilities.</description><atom:link href="https://cvefeed.io/rssfeed/severity/high.xml" rel="self"/><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 11:15:13 +0000</lastBuildDate><item><title>CVE-2024-9043 - Cellopoint Secure Email Gateway Buffer Overflow Vulnerability</title><link>https://cvefeed.io/vuln/detail/CVE-2024-9043</link><description>
 &lt;strong&gt;CVE ID : &lt;/strong&gt;CVE-2024-9043
 &lt;br&gt;
-&lt;strong&gt;Published : &lt;/strong&gt; Sept. 20, 2024, 11:16 a.m. | 1 hour, 53 minutes ago
+&lt;strong&gt;Published : &lt;/strong&gt; Sept. 20, 2024, 11:25 a.m. | 1 hour, 53 minutes ago
 &lt;br&gt;
 &lt;strong&gt;Description : &lt;/strong&gt;Secure Email Gateway from Cellopoint has Buffer Overflow Vulnerability in authentication process. Remote unauthenticated attackers can send crafted packets to crash the process, thereby bypassing authentication and obtaining system administrator privileges.
 &lt;br&gt;
 &lt;strong&gt;Severity:&lt;/strong&gt; 9.8 | CRITICAL
 &lt;br&gt;
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-</description><pubDate>Fri, 20 Sep 2024 11:15:14 +0000</pubDate><guid>https://cvefeed.io/vuln/detail/CVE-2024-9043</guid></item><item><title>CVE-2024-8853 - Webo-Facto WordPress Privilege Escalation</title><link>https://cvefeed.io/vuln/detail/CVE-2024-8853</link><description>
+</description><pubDate>Fri, 20 Sep 2024 11:17:25 +0000</pubDate><guid>https://cvefeed.io/vuln/detail/CVE-2024-9043</guid></item><item><title>CVE-2024-8853 - Webo-Facto WordPress Privilege Escalation</title><link>https://cvefeed.io/vuln/detail/CVE-2024-8853</link><description>
 &lt;strong&gt;CVE ID : &lt;/strong&gt;CVE-2024-8853
 &lt;br&gt;
-&lt;strong&gt;Published : &lt;/strong&gt; Sept. 20, 2024, 8:15 a.m. | 4 hours, 52 minutes ago
+&lt;strong&gt;Published : &lt;/strong&gt; Sept. 20, 2024, 8:19 a.m. | 4 hours, 52 minutes ago
 &lt;br&gt;
 &lt;strong&gt;Description : &lt;/strong&gt;The Webo-facto plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 1.40 due to insufficient restriction on the 'doSsoAuthentification' function. This makes it possible for unauthenticated attackers to make themselves administrators by registering with a username that contains '-wfuser'.
 &lt;br&gt;
